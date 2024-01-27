@@ -1,0 +1,8 @@
+.movies-list p{
+    background-color: black;
+    color:white;
+    width:fit-content; 
+}
+.displayMovie img{
+    width:300px;
+}
